@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:400,700');
+
+* { 
+    margin: 0; 
+    padding: 0; 
+    border: 0;
+}
+
+body { 
+    font-family:'Ubuntu', "Lucida Sans", Tahoma, Verdana, sans-serif;
+    font-size: 16px;
+    color: #000000;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+	letter-spacing: 2px;
+} a:hover {
+	letter-spacing: 4em;
+	text-transform: uppercase;
+}
+
+p {
+	text-align: center;
+}
